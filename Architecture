@@ -1,0 +1,3 @@
+ System Architecture
+
+Human Brain -> EEG Sensor -> ESP32 / NodeMCU -> IoT Cloud -> Data Analysis -> Device Control
