@@ -1,0 +1,7 @@
+Concept:
+This project connects human brain signals to the Internet using IoT. Brain signals are collected using EEG sensors and sent to cloud using ESP32. Multiple users' brain data can be collected and analyzed to create a collective intelligence system.
+
+Input: Brain Signals (EEG)
+Processing: ESP32 / Microcontroller
+Communication: IoT (Wi-Fi / MQTT)
+Output: Device Control / Data Analysis
