@@ -1,0 +1,7 @@
+EEG Sensor
+ESP32 / NodeMCU
+Wi-Fi Module
+Relay Module
+Jumper Wires
+Breadboard
+Cloud Platform
